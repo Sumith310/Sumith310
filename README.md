@@ -1,2 +1,4 @@
 # memebrother
-new repo
+My name is Sumith Naik
+ABOUT ME
+I'm a Student in SMVITM, Bantakal
